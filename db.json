@@ -21,12 +21,12 @@
             "Precio": "30.00"
         },
         {
-            "Id": 1,
+            "Id": 5,
             "Descripcion": "Impresora",
             "Precio": "325.00"
         },
         {
-            "Id": 1,
+            "Id": 6,
             "Descripcion": "Laptop",
             "Precio": "2500.00"
         }
