@@ -1,0 +1,34 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Descripcion": "Mouse",
+            "Precio": "30.00"
+        },
+        {
+            "Id": 2,
+            "Descripcion": "Teclado",
+            "Precio": "30.00"
+        },
+        {
+            "Id": 3,
+            "Descripcion": "Pantalla",
+            "Precio": "450.00"
+        },
+        {
+            "Id": 4,
+            "Descripcion": "Memoria RAM",
+            "Precio": "30.00"
+        },
+        {
+            "Id": 1,
+            "Descripcion": "Impresora",
+            "Precio": "325.00"
+        },
+        {
+            "Id": 1,
+            "Descripcion": "Laptop",
+            "Precio": "2500.00"
+        }
+    ]
+}
