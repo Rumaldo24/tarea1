@@ -1,40 +1,34 @@
 {
     "producto":[
         {
-            "Id": 1,
-            "Descripcion": "Mouse",
-            "Precio": "30.00",
-            "imagen" : "https://images.app.goo.gl/yBSk5nuEMChqr7c4A"
-        },
-        {
-            "Id": 2,
-            "Descripcion": "Teclado",
-            "Precio": "30.00",
-            "imagen" : "https://images.app.goo.gl/VYWe1gLeUMvHVwww8"
-        },
-        {
-            "Id": 3,
-            "Descripcion": "Pantalla",
-            "Precio": "450.00",
-            "imagen" : "https://images.app.goo.gl/8c2VJWGYfxJywTLq6"
-        },
-        {
-            "Id": 4,
-            "Descripcion": "Memoria RAM",
-            "Precio": "30.00",
-            "imagen" : "https://images.app.goo.gl/gjV2eKkozPh68y6S8"
-        },
-        {
-            "Id": 5,
-            "Descripcion": "Impresora",
-            "Precio": "325.00",
-            "imagen" : "https://images.app.goo.gl/s5pBL59C4upVordu5"
-        },
-        {
-            "Id": 6,
-            "Descripcion": "Laptop",
-            "Precio": "2500.00",
-            "imagen" : "https://images.app.goo.gl/RdXFsHajrts7j8158"
-        }
+    "Id": 1,
+    "Descripcion": "Mouse",
+    "Precio": "30.00",
+    "URL": "https://w7.pngwing.com/pngs/206/900/png-transparent-graphics-cards-video-adapters-rgb-backlit-gaming-high-end-graphics-card-geforce-gtx-1080ti-lightning-z-micro-star-international-digital-visual-interface-gtx-electronic-device-geforce-gtx.png"
+  },
+  {
+    "Id": 2,
+    "Descripcion": "Monitor",
+    "Precio": "130.00",
+    "URL": "https://img.freepik.com/foto-gratis/tv-pantalla-ancha_144627-12166.jpg"
+  },
+  {
+    "Id": 3,
+    "Descripcion": "Teclado",
+    "Precio": "60.00",
+    "URL": "https://www.shutterstock.com/image-vector/vector-white-pc-keyboard-very-260nw-1043422234.jpg"
+  },
+  {
+    "Id": 4,
+    "Descripcion": "Pc",
+    "Precio": "2260.00",
+    "URL": "https://www.shutterstock.com/image-photo/computer-mouse-on-white-background-260nw-119624326.jpg"
+  },
+  {
+    "Id": 5,
+    "Descripcion": "TarjetaGrafica",
+    "Precio": "160.00",
+    "URL": "https://i.blogs.es/5a8f2b/tarjetasgraficasap/1366_2000.jpg"
+  }
     ]
 }
